@@ -4,4 +4,4 @@ public static void main(String args[])
 System.out.println(n)
 }}
 
-yo man
+yo man 111
